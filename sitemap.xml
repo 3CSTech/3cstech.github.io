@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.90">
+  <url>
+    <loc>http://3cs.xyz/</loc>
+    <lastmod>2015-01-27T23:55:42+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://3cs.xyz/consulting/</loc>
+    <lastmod>2015-01-26T17:24:27+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://3cs.xyz/solutions/</loc>
+    <lastmod>2015-01-26T15:35:07+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://3cs.xyz/products/</loc>
+    <lastmod>2015-01-27T19:43:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://3cs.xyz/contact/</loc>
+    <lastmod>2015-01-26T17:14:51+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
